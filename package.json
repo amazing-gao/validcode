@@ -1,0 +1,14 @@
+{
+  "name": "validcode",
+  "version": "1.0.0",
+  "description": "gen valid code",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha test"
+  },
+  "keywords": [
+    "validcode"
+  ],
+  "author": "BiteBit",
+  "license": "MIT"
+}
